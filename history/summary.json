@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 198,
-    "timeDay": 236,
-    "timeWeek": 174,
-    "timeMonth": 177,
-    "timeYear": 198,
+    "time": 199,
+    "timeDay": 274,
+    "timeWeek": 191,
+    "timeMonth": 181,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2021-02-12": 231,
       "2021-02-11": 105
@@ -32,14 +32,32 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 175,
-    "timeDay": 125,
-    "timeWeek": 155,
-    "timeMonth": 131,
+    "timeDay": 173,
+    "timeWeek": 163,
+    "timeMonth": 133,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2021-06-08": 30,
       "2021-02-12": 231,
       "2021-02-11": 104
     }
+  },
+  {
+    "name": "Copy",
+    "url": "http://copy.zo3.red",
+    "icon": "https://favicons.githubusercontent.com/copy.zo3.red",
+    "slug": "copy",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 494,
+    "timeDay": 494,
+    "timeWeek": 494,
+    "timeMonth": 494,
+    "timeYear": 494,
+    "dailyMinutesDown": {}
   }
 ]
