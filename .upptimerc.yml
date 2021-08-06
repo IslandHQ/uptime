@@ -8,6 +8,8 @@ sites:
     url: http://map.mcs1.zo3.red
   - name: MCS1-stat
     url: http://stat.mcs1.zo3.red
+  - name: Copy
+    url: http://copy.zo3.red
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
